@@ -1,6 +1,6 @@
 package com.anusha.shape;
 public class Sphere1 extends Shape {
-    Sphere(int dim1, int dim2){
+    Sphere1(int dim1, int dim2){
         super(dim1, dim2, -1);
     }
     public double area(){

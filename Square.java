@@ -1,6 +1,6 @@
 package com.anusha.shape;
 public class Square1 extends Shape {
-    Square(int dim1){
+    Square1(int dim1){
         super(dim1, -1, -1);
     }
     public int area(){

@@ -1,6 +1,6 @@
 package com.anusha.shape;
-public class Rectangle extends Shape {
-    Rectangle(int dim1, int dim2, int height){
+public class Rectangle1 extends Shape {
+    Rectangle1(int dim1, int dim2, int height){
         super(dim1, dim2, height);
     }
     public int area(){
