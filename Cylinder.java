@@ -1,5 +1,5 @@
 package com.anusha.shape;
-public class Cylinder extends Shape {
+public class Cylinder1 extends Shape {
     Cylinder(int dim1){
         super(dim1, -1); 
     }

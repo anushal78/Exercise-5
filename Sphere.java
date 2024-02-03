@@ -1,5 +1,5 @@
 package com.anusha.shape;
-public class Sphere extends Shape {
+public class Sphere1 extends Shape {
     Sphere(int dim1, int dim2){
         super(dim1, dim2, -1);
     }
